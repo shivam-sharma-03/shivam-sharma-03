@@ -1,4 +1,5 @@
 ### Hi there 👋
+###[![An image of @shivamsharma03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamsharma03)](https://holopin.io/@shivamsharma03)
 
 <!--
 **shivam-sharma-03/shivam-sharma-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
